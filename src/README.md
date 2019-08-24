@@ -1,10 +1,10 @@
 ---
 title: Home
 home: true
-heroText: Hero
-tagline: Some tagline
-actionText: Go To Github
-actionLink: https://github.com/bencodezen/vuepress-blog-boilerplate
+heroText: Shay's Ultimate Vue Blog
+tagline: Best blog ever
+actionText: Habitica
+actionLink: https://habitica.com
 features:
 - 
     title: Feature 1
@@ -15,5 +15,5 @@ features:
 - 
     title: Feature 3
     details: Feature Details
-footer: This is a footer
+footer: Created By Shay 
 ---
