@@ -4,10 +4,8 @@ module.exports = {
 	title: 'The ranter',
 	dest: './public',
 	themeConfig: {
-		repo: 'https://wwww.github.com',
-		repoLabel: 'Repo',
-		editLinks: true,
-		editLinkText: 'Found a bug? Help me improve this page!',
+		repo: 'https://github.com/shayshimon/vuepress-blog-boilerplate',
+		repoLabel: 'GitHub',
 		nav: [
 			{ text: 'Home', link: '/' }, 
 			{ text: 'Blog', link: '/blog/' },

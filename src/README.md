@@ -7,13 +7,17 @@ actionText: Habitica
 actionLink: https://habitica.com
 features:
 - 
-    title: Feature 1
-    details: Feature Details
+    title: Coolness 
+    details: Reading this blog will improve your coolness.
 - 
-    title: Feature 2
-    details: Feature Details
+    title: Attractiveness
+    details: You are more attrective just by entering the site.
 - 
-    title: Feature 3
+    title: Feature
     details: Feature Details
+
 footer: Created By Shay 
 ---
+
+## The ranter blog
+Random ranting about computing, math, physics and AI.
