@@ -35,7 +35,19 @@ module.exports = {
 			}
 		],
 		'vuepress-plugin-reading-time',
-		'vuepress-plugin-janitor'
+		'vuepress-plugin-janitor',
+		[
+		    '@vssue/vuepress-plugin-vssue': {
+		      // set `platform` rather than `api`
+		      platform: 'github',
+
+		      // all other options of Vssue are allowed
+		      owner: 'shayshimon',
+		      repo: 'vuepress-blog-boilerplate',
+		      clientId: 'd7fe37ea7acce65f9a0a',
+		      clientSecret: 'de2232a7fa081e16531d10d959d6afe2c7c914d7',
+		    }
+		],
 	],
 	head: [
 		['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-icon.png' }],
