@@ -37,7 +37,7 @@ module.exports = {
 		'vuepress-plugin-reading-time',
 		'vuepress-plugin-janitor',
 		[
-		    '@vssue/vuepress-plugin-vssue': {
+		    '@vssue/vuepress-plugin-vssue', {
 		      // set `platform` rather than `api`
 		      platform: 'github',
 

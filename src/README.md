@@ -21,3 +21,4 @@ footer: Created By Shay
 
 ## The ranter blog
 Random ranting about computing, math, physics and AI.
+<Vssue title="Vssue Demo" />
